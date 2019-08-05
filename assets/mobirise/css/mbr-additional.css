@@ -1673,7 +1673,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #333333;
+  background-color: #149dcc;
 }
 .cid-rxyJcqcX7z button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2221,7 +2221,7 @@ body {
 }
 @media (min-width: 1024px) {
   .cid-rxyJcqcX7z .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.1rem);
+    max-height: calc(98.5vh - 5rem);
   }
 }
 .cid-rxyJcqcX7z .collapsed button.navbar-toggler {
@@ -3089,7 +3089,7 @@ body {
 }
 @media (min-width: 1024px) {
   .cid-rxyJcqcX7z .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.1rem);
+    max-height: calc(98.5vh - 5rem);
   }
 }
 .cid-rxyJcqcX7z .collapsed button.navbar-toggler {
