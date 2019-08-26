@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Enjoy Travel",
-    "currentPage": "servicios.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,16 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://enjoytravelcolombia.com/",
     "sitemapSwitcherAuto": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    }
   },
   "pages": {
     "servicios.html": {
@@ -4110,7 +4119,7 @@
       "settings": {
         "main": true,
         "title": "Enjoy Travel Colombia ",
-        "meta_descr": "Tu agencia de turismo en Cartagena | ",
+        "meta_descr": "Tu agencia de turismo en Cartagena | Somos una agencia turística que trabaja para ofrecerle con amabilidad un servicio integral, desde la coordinación de sus reservas, transporte en sitio, alojamiento en hoteles, planes y circuitos en sus destinos.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -4196,7 +4205,8 @@
               "color": "#ffffff"
             },
             "H1": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "center"
             }
           },
           "_name": "header16",
