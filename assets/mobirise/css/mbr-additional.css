@@ -3624,10 +3624,9 @@ body {
   color: #149dcc;
 }
 .cid-rxzaHUN9ME {
-  padding-top: 30px;
-  padding-bottom: 105px;
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, #ffffff);
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rxzaHUN9ME .carousel-control {
   background: #000;
@@ -4454,49 +4453,10 @@ body {
   color: #232323 !important;
 }
 .cid-qTkA127IK8 {
-  background-image: url("../../../assets/images/mbr-1920x1079.jpg");
+  background-image: url("../../../assets/images/the-lagito-1188480-1920-1920x1274.jpg");
 }
 .cid-qTkA127IK8 H1 {
   color: #ffffff;
-}
-.cid-rxySvfPUwk {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-color: #ffffff;
-}
-.cid-rxySvfPUwk .mbr-text {
-  color: #767676;
-  text-align: left;
-}
-.cid-rxySvfPUwk h4 {
-  text-align: center;
-}
-.cid-rxySvfPUwk p {
-  text-align: center;
-}
-.cid-rxySvfPUwk .card-img span {
-  font-size: 96px;
-  color: #149dcc;
-}
-.cid-rxySvfPUwk .card-title,
-.cid-rxySvfPUwk .card-img {
-  color: #149dcc;
-}
-.cid-rzHHvHMT7O {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-1920x12741.jpeg");
-}
-.cid-rzHHvHMT7O P {
-  color: #767676;
-}
-.cid-rzHHvHMT7O .mbr-text,
-.cid-rzHHvHMT7O .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-rzHHvHMT7O H1 {
-  color: #ffffff;
-  text-align: center;
 }
 .cid-rxySpqzvMr {
   padding-top: 15px;
@@ -4562,6 +4522,43 @@ body {
 }
 .cid-rxySpqzvMr .mbr-gallery-item > div > span {
   color: #ffffff;
+}
+.cid-rzHHvHMT7O {
+  background-image: url("../../../assets/images/calle-de-cartagena-1024x774.jpg");
+}
+.cid-rzHHvHMT7O P {
+  color: #767676;
+}
+.cid-rzHHvHMT7O .mbr-text,
+.cid-rzHHvHMT7O .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rzHHvHMT7O H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rxySvfPUwk {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rxySvfPUwk .mbr-text {
+  color: #767676;
+  text-align: left;
+}
+.cid-rxySvfPUwk h4 {
+  text-align: center;
+}
+.cid-rxySvfPUwk p {
+  text-align: center;
+}
+.cid-rxySvfPUwk .card-img span {
+  font-size: 96px;
+  color: #149dcc;
+}
+.cid-rxySvfPUwk .card-title,
+.cid-rxySvfPUwk .card-img {
+  color: #149dcc;
 }
 .cid-rxyJcqcX7z .navbar {
   background: #ffffff;
